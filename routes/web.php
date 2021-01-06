@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\InicioController;
+use App\Http\Controllers\ProductosController;
 
 /*
 |--------------------------------------------------------------------------
@@ -16,3 +17,5 @@ use App\Http\Controllers\InicioController;
 
 Route::get('/', [InicioController::class, 'getIndex']);
 Route::get('/login', [InicioController::class, 'login']);
+Route::get('productos/anchetas', [ProductosController::class, 'anchetas']);
+Route::get('productos/buscar',[ProductosController::class, 'buscarProd'])->name('busprod');

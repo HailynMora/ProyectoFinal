@@ -20,7 +20,7 @@ class ProductosSeeder extends Seeder
                 'valor_producto' => 75000,
                 'descripcion_producto' => 'Ancheta love cervecera contiene 4 cervezas, chocolates monteblac, hershey´s, nutella, caja de chocolates, galletas, empacado en caja de madera con globos réflex y globos metalizados',
                 'cant_producto' => 5,
-                'foto_producto'=> '1.JPG',
+                'foto_producto'=> '1.PNG',
                 'categoria'=> 1,
             ] ,
             [
@@ -28,7 +28,7 @@ class ProductosSeeder extends Seeder
                 'valor_producto' => 90000,
                 'descripcion_producto' => 'Ancheta love merienda contiene 3 cervezas, sándwich, café, peluche en piel de durazno, papas, dulces variados, galletas, empacado en caja de madera con globos réflex,4 globos con helio y metalizados.',
                 'cant_producto' => 9,
-                'foto_producto'=> '2.JPG',
+                'foto_producto'=> '2.PNG',
                 'categoria'=> 1,
             ] ,
             [
@@ -36,7 +36,7 @@ class ProductosSeeder extends Seeder
                 'valor_producto' => 93000,
                 'descripcion_producto' => 'Ancheta cervecera contiene 5 cervezas BBC, vaso cervecero, cupcakes, chocolatina hershey´s, empacado en hielera metálica decorada con globo burbuja.',
                 'cant_producto' => 3,
-                'foto_producto'=> '3.JPG',
+                'foto_producto'=> '3.PNG',
                 'categoria'=> 1,
             ] ,
             [
@@ -44,7 +44,7 @@ class ProductosSeeder extends Seeder
                 'valor_producto' => 45000,
                 'descripcion_producto' => 'Ancheta dulcera contiene vino gato negro, chocolates hershey, m&m, galletas, bombones de chocolate, empacada en caja de madera con globo metalizado marcado.',
                 'cant_producto' => 8,
-                'foto_producto'=> '4.JPG',
+                'foto_producto'=> '4.PNG',
                 'categoria'=> 1,
             ] ,
             [
@@ -52,7 +52,7 @@ class ProductosSeeder extends Seeder
                 'valor_producto' => 40000,
                 'descripcion_producto' => 'Ancheta contiene cerveza corona, snack, maní, globos réflex, empacado en caja de madera en forma de corazón con globo con helio.',
                 'cant_producto' => 4,
-                'foto_producto'=> '5.JPG',
+                'foto_producto'=> '5.PNG',
                 'categoria'=> 1,
             ] ,
             [
@@ -60,7 +60,7 @@ class ProductosSeeder extends Seeder
                 'valor_producto' => 55000,
                 'descripcion_producto' => 'Ancheta amor contiene letrero te amo, peluche pequeño, snack, dulces variados, empacado en caja de cartón decorada.',
                 'cant_producto' => 2,
-                'foto_producto'=> '27.JPG',
+                'foto_producto'=> '27.PNG',
                 'categoria'=> 1,
             ] ,
             [
@@ -68,7 +68,7 @@ class ProductosSeeder extends Seeder
                 'valor_producto' => 30000,
                 'descripcion_producto' => 'Caja con 12 fresas bañadas en chocolate con letrero de te amo y na cerveza BBC empacada en caja de madera decorada',
                 'cant_producto' => 8,
-                'foto_producto'=> '1.JPG',
+                'foto_producto'=> '1.PNG',
                 'categoria'=> 2,
             ] ,
             [
@@ -76,7 +76,7 @@ class ProductosSeeder extends Seeder
                 'valor_producto' => 28000,
                 'descripcion_producto' => 'Caja con 9 fresas bañadas en chocolate decoradas tonalidad roja, empacadas en caja de cartón decorada.',
                 'cant_producto' => 10,
-                'foto_producto'=> '3.JPG',
+                'foto_producto'=> '3.PNG',
                 'categoria'=> 2,
             ] ,
             [
@@ -84,7 +84,7 @@ class ProductosSeeder extends Seeder
                 'valor_producto' => 50000,
                 'descripcion_producto' => 'Caja de tres compartimientos contiene 9 fresas bañadas en chocolate decoradas con maní y dulces, control de videojuegos en chocolate y cerveza corona, empacado en caja de cartón decorada',
                 'cant_producto' => 12,
-                'foto_producto'=> '4.JPG',
+                'foto_producto'=> '4.PNG',
                 'categoria'=> 2,
             ] ,
             [
@@ -92,7 +92,7 @@ class ProductosSeeder extends Seeder
                 'valor_producto' => 60000,
                 'descripcion_producto' => '30 fresas bañadas en chocolate negro y blanco decoradas con chocolates corazón empacadas en caja de cartón decorada',
                 'cant_producto' => 20,
-                'foto_producto'=> '7.JPG',
+                'foto_producto'=> '7.PNG',
                 'categoria'=> 2,
             ] ,
             [
@@ -100,7 +100,7 @@ class ProductosSeeder extends Seeder
                 'valor_producto' => 35000,
                 'descripcion_producto' => '6 fresas bañadas en chocolate, gomas, dulces variados, empacada en caja de cartón con tapa decorada',
                 'cant_producto' => 30,
-                'foto_producto'=> '9.JPG',
+                'foto_producto'=> '9.PNG',
                 'categoria'=> 2,
             ] ,
             [
@@ -108,7 +108,7 @@ class ProductosSeeder extends Seeder
                 'valor_producto' => 68000,
                 'descripcion_producto' => 'Torta de vainilla bañada en chocolate decorada con rosas y fresas con chocolate',
                 'cant_producto' => 10,
-                'foto_producto'=> '12.JPG',
+                'foto_producto'=> '12.PNG',
                 'categoria'=> 2,
             ] ,
             [
@@ -124,7 +124,7 @@ class ProductosSeeder extends Seeder
                 'valor_producto' =>  65000,
                 'descripcion_producto' => 'Contiene huevos revueltos, porción de fruta, bebida caliente, galletas, dulces, jugo de naranja, sándwich, empacado en caja de madera decorada con globo metalizado y globo burbuja ',
                 'cant_producto' => 8,
-                'foto_producto'=> '5.jpg',
+                'foto_producto'=> '5.PNG',
                 'categoria'=> 3,
             ] ,
             [
@@ -132,7 +132,7 @@ class ProductosSeeder extends Seeder
                 'valor_producto' =>  80000,
                 'descripcion_producto' => 'Contiene mini torta, jugo de naranja, bebida caliente, porción de fruta, fresas con chocolate, sándwich, dulces variados, empacado en caja de madera decorada con globos. ',
                 'cant_producto' => 5,
-                'foto_producto'=> '9.jpg',
+                'foto_producto'=> '9.PNG',
                 'categoria'=> 3,
             ] ,
             [
@@ -140,7 +140,7 @@ class ProductosSeeder extends Seeder
                 'valor_producto' =>  40000,
                 'descripcion_producto' => 'Jugo de naranja, bebida caliente, sándwich, porción de fruta, snack, empacado en caja de naranja decorado con globo ',
                 'cant_producto' => 30,
-                'foto_producto'=> '16.jpg',
+                'foto_producto'=> '16.PNG',
                 'categoria'=> 3,
             ] ,
             [
@@ -148,7 +148,7 @@ class ProductosSeeder extends Seeder
                 'valor_producto' =>  50000,
                 'descripcion_producto' => 'Ramo de rosas decorado en caja cilíndrica decorada con globo burbuja',
                 'cant_producto' => 4,
-                'foto_producto'=> '1.jpg',
+                'foto_producto'=> '1.PNG',
                 'categoria'=> 4,
             ] ,
             [
@@ -156,7 +156,7 @@ class ProductosSeeder extends Seeder
                 'valor_producto' =>  100000,
                 'descripcion_producto' => 'Ancheta florar contiene ramo de rosas, botellas de champaña, cerveza, chocolates, cupcakes, globos réflex, globos con helio, empacado en caja de madera decorada con globos metálicos',
                 'cant_producto' => 5,
-                'foto_producto'=> '9.JPG',
+                'foto_producto'=> '9.PNG',
                 'categoria'=> 4,
             ] ,
             [
@@ -164,7 +164,7 @@ class ProductosSeeder extends Seeder
                 'valor_producto' =>  85000,
                 'descripcion_producto' => 'Caja mix contiene ramo de rosas cupcakes con fresas bañadas en chocolate, frutas, empacado en caja de cartón decorada con globos.',
                 'cant_producto' => 5,
-                'foto_producto'=> '11.JPG',
+                'foto_producto'=> '11.PNG',
                 'categoria'=> 4,
             ] ,
             [
@@ -172,7 +172,7 @@ class ProductosSeeder extends Seeder
                 'valor_producto' =>  25000,
                 'descripcion_producto' => 'Contiene galletas, dulces variados, yogurt griego, papas, empacado en caja de cartón decorada.',
                 'cant_producto' => 6,
-                'foto_producto'=> '14.jpg',
+                'foto_producto'=> '14.PNG',
                 'categoria'=> 5,
             ] ,
             [
@@ -180,7 +180,7 @@ class ProductosSeeder extends Seeder
                 'valor_producto' =>  28000,
                 'descripcion_producto' => 'Contiene ponqué, avena, jugo, galletas, dulces variados, empacado en caja de carton decorada.',
                 'cant_producto' => 10,
-                'foto_producto'=> '13.jpg',
+                'foto_producto'=> '13.PNG',
                 'categoria'=> 5,
             ] ,
         ];
